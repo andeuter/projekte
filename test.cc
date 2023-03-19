@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main()
-[
-    cout << "Hallo Welt";
+{
+    printf("Hallo Welt");
 
     return 0;
-]
+}    
